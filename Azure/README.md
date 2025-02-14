@@ -1,2 +1,2 @@
-**This documentation provides the Point-to-Site VPN Connection from your PC to Azure
+**This documentation provides the Point-to-Site VPN Connection from your PC to Azure**
 * For more detail click [here](/Azure/PointToSiteVPN-IndirasKhatri.pdf)
