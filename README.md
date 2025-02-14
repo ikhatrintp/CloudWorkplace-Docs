@@ -6,7 +6,7 @@ This repository provides documentation and resources for cloud workplace tools, 
 - Guides on modern workplace tools  
 
 ## 📂 Contents  
-- **CloudPC** [CloudPC](CloudPC): Guides and resources for setting up, managing, and troubleshooting Cloud PC.  
+- **CloudPC** Click [here](CloudPC): Guides and resources for setting up, managing, and troubleshooting Cloud PC.  
 
 ## 🚀 Getting Started  
 1. Clone this repository:  
